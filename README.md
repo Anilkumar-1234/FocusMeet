@@ -58,6 +58,40 @@ The platform enables users to create secure meetings, join using meeting credent
 * Track meeting performance over time
 
 ---
+## 📸 Application Screenshots
+
+### Create Meeting
+
+![Create Meeting](screenshots/createMeeting.png)
+
+### Join Meeting
+
+![Join Meeting](screenshots/joinMeeting.png)
+
+### Meeting Room
+
+![Meeting Room](screenshots/MeetingRoom.png)
+
+### Real-Time Analytics
+
+![Real-Time Analytics](screenshots/RealAnalytics.png)
+
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### AI Meeting Insights
+
+![AI Insights](screenshots/AImeetingInsights.png)
+
+### Meeting History
+
+![Meeting History](screenshots/MeetingHistory.png)
+
+### PDF Report Generation
+
+![PDF Report](screenshots/MeetingPDF.png)
+
 
 ## Tech Stack
 
